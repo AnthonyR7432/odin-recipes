@@ -1,0 +1,17 @@
+html {
+    background-color: black;
+}
+
+body {
+    color: white;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: orange;
+    font-size: 40px;
+}
+
+p {
+    font-size: 21px;
+}
